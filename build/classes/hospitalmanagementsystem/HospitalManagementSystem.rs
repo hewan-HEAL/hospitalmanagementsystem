@@ -1,0 +1,4 @@
+hospitalmanagementsystem.HospitalManagementSystem
+hospitalmanagementsystem.Doctor
+hospitalmanagementsystem.Patient
+hospitalmanagementsystem.Appointment
